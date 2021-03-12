@@ -1,6 +1,5 @@
 <h1 align="center">Howdy! I'm Ryan Booth</h1>
 <h3 align="center">A fullstack JavaScript Software Engineer 🤠 </h3>
-![alt text](https://imgur.com/yVGk8Ed)
 
 <p align="left"> <a href="https://twitter.com/ryanbooth4ever" target="blank"><img src="https://img.shields.io/twitter/follow/ryanbooth4ever?logo=twitter&style=for-the-badge" alt="ryanbooth4ever" /></a> </p>
 
