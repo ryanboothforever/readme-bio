@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ryan Booth</h1>
-<h3 align="center">A fullstack JavaScript Software Engineer 🤠</h3>
+<h1 align="center">Howdy! I'm Ryan Booth</h1>
+<h3 align="center">A fullstack JavaScript Software Engineer 🤠 <blockquote class="imgur-embed-pub" lang="en" data-id="a/yVGk8Ed" data-context="false" ><a href="//imgur.com/a/yVGk8Ed"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></h3>
 
 <p align="left"> <a href="https://twitter.com/ryanbooth4ever" target="blank"><img src="https://img.shields.io/twitter/follow/ryanbooth4ever?logo=twitter&style=for-the-badge" alt="ryanbooth4ever" /></a> </p>
 
