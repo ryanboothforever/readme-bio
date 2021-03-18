@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ryanbooth4ever" target="blank"><img align="center" src="https://i.imgur.com/j4rR6Yr.png" alt="ryanbooth4ever" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryan-booth-forever/" target="blank"><img align="center" src="https://i.imgur.com/JFCWzdu.png" alt="https://www.linkedin.com/in/ryan-booth-forever/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ryanboothforever" target="blank"><img align="center" src="https://i.imgur.com/psFg1zG.png" alt="https://www.behance.net/ryanboothforever" height="30" width="40" /></a>
+<a href="https://twitter.com/ryanbooth4ever" target="blank"><img align="center" src="https://i.imgur.com/j4rR6Yr.png" alt="ryanbooth4ever" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ryan-booth-forever/" target="blank"><img align="center" src="https://i.imgur.com/JFCWzdu.png" alt="https://www.linkedin.com/in/ryan-booth-forever/" height="40" width="50" /></a>
+<a href="https://www.behance.net/https://www.behance.net/ryanboothforever" target="blank"><img align="center" src="https://i.imgur.com/psFg1zG.png" alt="https://www.behance.net/ryanboothforever" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
