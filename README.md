@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ryanbooth4ever" target="blank"><img src="https://img.shields.io/twitter/follow/ryanbooth4ever?logo=twitter&style=for-the-badge" alt="ryanbooth4ever" /></a> </p>
 
-- 🔭 I’m currently working on [multiple client websites!](in progress)
+- 🔭 I’m currently working on a Book Club app!
 
-- 🌱 I’m currently learning **Ruby, React, and Typescript**
+- 🌱 I’m currently learning **Ruby, TailwindCSS, and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://ryanboothforever.netlify.app/](https://ryanboothforever.netlify.app/)
 
