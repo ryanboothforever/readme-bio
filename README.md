@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ryanboothforever.netlify.app/](https://ryanboothforever.netlify.app/)
 
-- 💬 Ask me about **frontend design techniques, Ruby, books, and podcasts!**
+- 💬 Ask me about **frontend design techniques, photography, books, and podcasts!**
 
 - 📫 How to reach me **ryanboothforever@gmail.com**
 
